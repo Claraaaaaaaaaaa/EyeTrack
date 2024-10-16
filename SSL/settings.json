@@ -1,0 +1,10 @@
+{
+    "liveServer.settings.root": "/",
+    "liveServer.settings.https": {
+      "enable": true,
+      "cert": "/Users/zjiexu/localhost.pem",
+      "key": "/Users/zjiexu//localhost.key",
+      "passphrase": "65537"
+    }
+  }
+  
